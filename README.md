@@ -3,7 +3,7 @@
 
 Dataset: <a href = https://www.otodom.pl/  style="text-decoration: none;"> Otodom Dataset</a><br>
 
-Scrape Date: <a href="https://brightdata.com/products/datasets?utm_source=brand&utm_campaign=brnd-mkt_youtube_techtfq/" style="text-decoration: none;">BrightData</a><br>
+Scrape Data: <a href="https://brightdata.com/products/datasets?utm_source=brand&utm_campaign=brnd-mkt_youtube_techtfq/" style="text-decoration: none;">BrightData</a><br>
 
 
 
