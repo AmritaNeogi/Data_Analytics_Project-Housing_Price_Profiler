@@ -1,7 +1,9 @@
 # House Price Profiler
 
 
-Dataset: Otodom dataset[https://www.otodom.pl/]
-Scrape Data: BrightData[https://brightdata.com/products/datasets?utm_source=brand&utm_campaign=brnd-mkt_youtube_techtfq]
-Download SNOWSQL : https://developers.snowflake.com/snowsql/
+Dataset: <a href = https://www.otodom.pl/  style="text-decoration: none;"> Otodom Dataset</a><br>
 
+Scrape Data: <a href = https://brightdata.com/products/datasets?utm_source=brand&utm_campaign=brnd-mkt_youtube_techtfq style="text-decoration: none;"> BrightData </a><br>
+
+Download SNOWSQL : https://developers.snowflake.com/snowsql/
+<br>
