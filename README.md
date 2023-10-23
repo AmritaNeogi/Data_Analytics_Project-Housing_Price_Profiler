@@ -16,11 +16,7 @@ Scrape Date: <a href="https://brightdata.com/products/datasets?utm_source=brand&
 ## Steps to Follow
 
 1. Connect to the Snowflake SQL
-
-<br>
 Download SNOWSQL : https://developers.snowflake.com/snowsql/
-<br>
-
 2. Create a virtual Schema or Database
 3. Create a Stage to import BrighData .csv/JSON files
 4. Create Table
