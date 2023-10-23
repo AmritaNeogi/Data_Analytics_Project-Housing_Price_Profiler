@@ -9,11 +9,8 @@ Scrape Date: <a href="https://brightdata.com/products/datasets?utm_source=brand&
 
 ## Overview <br>
 
-<embed src="http://localhost:8888/files/OneDrive/Documents/GitHub/Data_Analytics_Project-Housing_Price_Profiler/Overview.pdff" type="application/pdf" width="100%" height="500px" />
-
-[Download PDF](http://localhost:8888/files/OneDrive/Documents/GitHub/Data_Analytics_Project-Housing_Price_Profiler/Overview.pdf)
-
-
+<div class="image-container"><img src="/images/Overview_part1.png" alt="Project Image"> </div>
+<div class="image-container"><img src="/images/Overview_part2.png" alt="Project Image"> </div>
 
 <br>
 Download SNOWSQL : https://developers.snowflake.com/snowsql/
