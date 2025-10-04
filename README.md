@@ -1,4 +1,4 @@
-# House Price Profiler
+# Housing Data Standardization & Reporting Pipeline (Snowflake/SQL)
 
 
 Dataset: <a href = https://www.otodom.pl/  style="text-decoration: none;"> Otodom Dataset</a><br>
