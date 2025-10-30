@@ -1,4 +1,5 @@
-# Housing Data Standardization & Reporting Pipeline (Snowflake/SQL)
+# Data-Driven Insights into Real Estate Price Sensitivity:
+## Housing Data Standardization & Reporting Pipeline (Snowflake/SQL)
 
 
 Dataset: <a href = https://www.otodom.pl/  style="text-decoration: none;"> Otodom Dataset</a><br>
